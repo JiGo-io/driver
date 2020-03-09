@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tit1"
+        android:title="title 1"
+        android:icon="@drawable/ic_perm_identity_black_24dp">
+    </item> <item
+        android:id="@+id/tit2"
+        android:title="title 2"
+        android:icon="@drawable/ic_settings_black_24dp">
+    </item>
+    <item
+        android:id="@+id/tit3"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="title 3"></item>
+</menu>
