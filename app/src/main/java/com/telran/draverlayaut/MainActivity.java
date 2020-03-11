@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity {
         abdt.syncState();
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+
+
         NavigationView navigationView = findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
